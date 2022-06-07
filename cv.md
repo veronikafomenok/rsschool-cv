@@ -23,7 +23,7 @@ function multiply(a, b){
 
 ## Education
 
-* University: BSU, Chemical faculty;
+* University: BSU, Chemical faculty
 
 * Courses: QA Academy, basics of software testing
 
